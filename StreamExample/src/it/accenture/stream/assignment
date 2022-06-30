@@ -1,0 +1,19 @@
+Creare le seguenti funzioni che lavorino avendo in input
+una lista di developer (almeno 2)
+1) calcolare max stipendio di sviluppatrici (F) e minimo
+stipendio degli sviluppatori (M) e ritorni true se
+il minimo stipendio dei M è > del max stipendio delle F
+2) calcolare valor medio degli stipendi dei developer
+che hanno come linguaggio preferito C++ e hanno più
+di 30 anni
+3) ritornare una ArrayList<Developer> con i 3
+sviluppatori più esperti (yearsOfExperience), se la
+lista è vuota la ritorna vuota, se ne contiene di meno
+ritorna quelli che ci sono.
+4) ritornare lista con i nomi dei due linguaggi
+più comuni tra i dev dati in input
+5) calcolare la mediana degli stipendi dei dev
+in input (se il tot degli elem è pari,
+si fa la media dei due elementi in mezzo)
+6) calcolare la moda dei salari(valore più frequente), se ce
+ne sono due o più ritornare una a caso.

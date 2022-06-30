@@ -11,10 +11,10 @@ public class Developer {
     private String favouriteLanguage;
     private int yearsOfExperience;
     private Sex sex;
-
     private double salary;
 
-    public Developer(long id, String firstName, String lastName, LocalDate birthDate, String favouriteLanguage, int yearsOfExperience, Sex sex, double salary) {
+    public Developer(long id, String firstName, String lastName, LocalDate birthDate, String favouriteLanguage,
+            int yearsOfExperience, Sex sex, double salary) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;

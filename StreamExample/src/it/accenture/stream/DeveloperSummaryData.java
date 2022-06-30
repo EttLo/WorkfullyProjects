@@ -1,5 +1,7 @@
 package it.accenture.stream;
 
+import java.util.HashMap;
+
 public class DeveloperSummaryData {
     private double salarySum;
     private int ageProduct = 1;
